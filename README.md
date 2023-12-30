@@ -10,7 +10,7 @@ Assuming you have a Digikey bootloader flashed chip, let's get started!
 
 ### Driver Installation
 
-1. Download the [ghostronics_Atiny_85 utility.zip](https://drive.google.com/drive/folders/1PtO-p04wGJjrjjJ2HX2sP6jJz13yPMmA?usp=sharing).
+1. Download the [ghostronics_Atiny_85 utility.zip](https://drive.google.com/file/d/1SzBzRbafrBvkNwXgUhqzT3B1ZBU8PC1k/view?usp=sharing).
 2. Extract the zip file using the password: `ghostronics`. in this zip you will get the latest version of arduino also.
 3. Inside the extracted folder "ghostronics_atiny_utility," navigate to the "Digistump_driver" folder.
 4. Run "DPinst64.exe" for 64-bit OS or "DPinst.exe" for other OS, based on your system specifications.
